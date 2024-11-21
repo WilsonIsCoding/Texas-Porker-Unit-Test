@@ -41,6 +41,7 @@ function judgeTexasDuel(publicCards, opponentCards, playerCards) {
     "Pair", // 對子
     "Two Pair", // 兩對
     "Three of a Kind", // 三條
+    "Four of a Kind", // 四條
     "Straight", // 順子
   ];
 
